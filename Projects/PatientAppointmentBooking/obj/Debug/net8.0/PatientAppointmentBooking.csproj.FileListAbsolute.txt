@@ -1,0 +1,14 @@
+D:\CSharp\PatientAppointmentBooking\bin\Debug\net8.0\PatientAppointmentBooking.exe
+D:\CSharp\PatientAppointmentBooking\bin\Debug\net8.0\PatientAppointmentBooking.deps.json
+D:\CSharp\PatientAppointmentBooking\bin\Debug\net8.0\PatientAppointmentBooking.runtimeconfig.json
+D:\CSharp\PatientAppointmentBooking\bin\Debug\net8.0\PatientAppointmentBooking.dll
+D:\CSharp\PatientAppointmentBooking\bin\Debug\net8.0\PatientAppointmentBooking.pdb
+D:\CSharp\PatientAppointmentBooking\obj\Debug\net8.0\PatientAppointmentBooking.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\PatientAppointmentBooking\obj\Debug\net8.0\PatientAppointmentBooking.AssemblyInfoInputs.cache
+D:\CSharp\PatientAppointmentBooking\obj\Debug\net8.0\PatientAppointmentBooking.AssemblyInfo.cs
+D:\CSharp\PatientAppointmentBooking\obj\Debug\net8.0\PatientAppointmentBooking.csproj.CoreCompileInputs.cache
+D:\CSharp\PatientAppointmentBooking\obj\Debug\net8.0\PatientAppointmentBooking.dll
+D:\CSharp\PatientAppointmentBooking\obj\Debug\net8.0\refint\PatientAppointmentBooking.dll
+D:\CSharp\PatientAppointmentBooking\obj\Debug\net8.0\PatientAppointmentBooking.pdb
+D:\CSharp\PatientAppointmentBooking\obj\Debug\net8.0\PatientAppointmentBooking.genruntimeconfig.cache
+D:\CSharp\PatientAppointmentBooking\obj\Debug\net8.0\ref\PatientAppointmentBooking.dll
